@@ -1,0 +1,101 @@
+city,state_id,state_name,county_fips (zip code),county_name,population,land area (Sq miles),time zone
+Akron,OH,Ohio,39153,Summit,565208,62.27,EST
+Albany,NY,New York,36001,Albany,586383,21.93,EST
+Albuquerque,NM,New Mexico,35001,Bernalillo,761195,188.9,MST
+Allentown,PA,Pennsylvania,42077,Lehigh,683794,18.01,EST
+Atlanta,GA,Georgia,13121,Fulton,5449398,136.3,EST
+Austin,TX,Texas,48453,Travis,1687311,271.8,CST
+Bakersfield,CA,California,06029,Kern,579295,151.3,PST
+Baltimore,MD,Maryland,24510,Baltimore,2106068,92.28,EST
+Baton Rouge,LA,Louisiana,22033,East Baton Rouge,570308,79.15,CST
+Birmingham,AL,Alabama,01073,Jefferson,739573,149.5,CST
+Boston,MA,Massachusetts,25025,Suffolk,4688346,89.63,EST
+Bridgeport,CT,Connecticut,09001,Fairfield,924449,19.38,EST
+Bronx,NY,New York,36005,Bronx,1418207,42.47,EST
+Brooklyn,NY,New York,36047,Kings,2559903,97,EST
+Buffalo,NY,New York,36029,Erie,914341,52.51,EST
+Cape Coral,FL,Florida,12071,Lee,668382,120,EST
+Charleston,SC,South Carolina,45019,Charleston,628377,156.6,EST
+Charlotte,NC,North Carolina,37119,Mecklenburg,1512923,312,EST
+Chicago,IL,Illinois,17031,Cook,8604203,234.53,CST
+Cincinnati,OH,Ohio,39061,Hamilton,1662691,79.64,EST
+Cleveland,OH,Ohio,39035,Cuyahoga,1710093,82.48,EST
+Colorado Springs,CO,Colorado,08041,El Paso,642413,195.8,MST
+Columbia,SC,South Carolina,45079,Richland,560041,140.7,EST
+Columbus,OH,Ohio,39049,Franklin,1562009,226.3,EST
+Concord,CA,California,06013,Contra Costa,652308,30.55,PST
+Dallas,TX,Texas,48113,Dallas,5743938,385.9,CST
+Dayton,OH,Ohio,39113,Montgomery,718353,56.96,EST
+Denton,TX,Texas,48121,Denton,457177,97.95,CST
+Denver,CO,Colorado,08031,Denver,2876625,154.7,MST
+Des Moines,IA,Iowa,19153,Polk,473957,90.7,CST
+Detroit,MI,Michigan,26163,Wayne,3506126,142.9,EST
+El Paso,TX,Texas,48141,El Paso,843386,259.3,CST
+Fort Worth,TX,Texas,48439,Tarrant,909585,355.6,CST
+Fresno,CA,California,06019,Fresno,703498,116,PST
+Grand Rapids,MI,Michigan,26081,Kent,609314,45.63,EST
+Greenville,SC,South Carolina,45045,Greenville,484465,30.02,EST
+Harrisburg,PA,Pennsylvania,42043,Dauphin,442289,11.86,EST
+Hartford,CT,Connecticut,09003,Hartford,905152,17.95,EST
+Honolulu,HI,Hawaii,15003,Honolulu,820987,68.4,HST
+Houston,TX,Texas,48201,Harris,5464251,665,CST
+Indianapolis,IN,Indiana,18097,Marion,1588961,367.9,EST
+Jacksonville,FL,Florida,12031,Duval,1181496,875,EST
+Kansas City,MO,Missouri,29095,Jackson,1636715,319,CST
+Knoxville,TN,Tennessee,47093,Knox,586048,104.3,CST
+Las Vegas,NV,Nevada,32003,Clark,2104198,135.9,PST
+Little Rock,AR,Arkansas,05119,Pulaski,439815,123,CST
+Long Beach,CA,California,06037,Los Angeles,462628,80.35,PST
+Los Angeles,CA,California,06037,Los Angeles,12750807,502,PST
+Louisville,KY,Kentucky,21111,Jefferson,1005654,341.44,EST
+Madison,WI,Wisconsin,55025,Dane,447245,94.03,CST
+Manhattan,NY,New York,36061,New York,1628706,22.82,EST
+McAllen,TX,Texas,48215,Hidalgo,804114,62.73,CST
+Memphis,TN,Tennessee,47157,Shelby,1066967,302.5,CST
+Mesa,AZ,Arizona,04013,Maricopa,518012,133.1,MST
+Miami,FL,Florida,12086,Miami-Dade,6445545,55.25,EST
+Milwaukee,WI,Wisconsin,55079,Milwaukee,1365787,96.82,CST
+Minneapolis,MN,Minnesota,27053,Hennepin,2977172,57.51,CST
+Mission Viejo,CA,California,06059,Orange,590249,18.03,PST
+Murrieta,CA,California,06065,Riverside,496046,33.65,PST
+Nashville,TN,Tennessee,47037,Davidson,1081903,526,CST
+New Haven,CT,Connecticut,09009,New Haven,564830,20.14,EST
+New Orleans,LA,Louisiana,22071,Orleans,1020886,349.8,CST
+New York,NY,New York,36061,New York,18713220,302.6,EST
+Ogden,UT,Utah,49057,Weber,578523,27.55,MST
+Oklahoma City,OK,Oklahoma,40109,Oklahoma,972943,621,CST
+Omaha,NE,Nebraska,31055,Douglas,847819,146.3,CST
+Orlando,FL,Florida,12095,Orange,1822394,119.1,EST
+Palm Bay,FL,Florida,12009,Brevard,507002,101.4,EST
+Philadelphia,PA,Pennsylvania,42101,Philadelphia,5649300,141.7,EST
+Phoenix,AZ,Arizona,04013,Maricopa,4219697,517,MST
+Pittsburgh,PA,Pennsylvania,42003,Allegheny,1703266,58.35,EST
+Port St. Lucie,FL,Florida,12111,St. Lucie,461152,76.68,EST
+Portland,OR,Oregon,41051,Multnomah,2074775,145,PST
+Providence,RI,Rhode Island,44007,Providence,1203230,20.6,EST
+Provo,UT,Utah,49049,Utah,500617,44.19,MST
+Queens,NY,New York,36081,Queens,2230722,108.1,EST
+Raleigh,NC,North Carolina,37183,Wake,1038738,149.6,EST
+Reno,NV,Nevada,32031,Washoe,445020,111.7,PST
+Richmond,VA,Virginia,51760,Richmond,1075798,62.57,EST
+Riverside,CA,California,06065,Riverside,2107852,81.54,PST
+Rochester,NY,New York,36055,Monroe,703952,37.17,EST
+Sacramento,CA,California,06067,Sacramento,1898019,99.77,PST
+Salt Lake City,UT,Utah,49035,Salt Lake,1098526,110.8,MST
+San Antonio,TX,Texas,48029,Bexar,2049293,505,CST
+San Diego,CA,California,06073,San Diego,3220118,372.4,PST
+San Francisco,CA,California,06075,San Francisco,3592294,46.87,PST
+San Jose,CA,California,06085,Santa Clara,1798103,181.4,PST
+Sarasota,FL,Florida,12115,Sarasota,722243,24.08,EST
+Seattle,WA,Washington,53033,King,3789215,83.78,PST
+Springfield,MA,Massachusetts,25013,Hampden,623401,33.07,EST
+St. Louis,MO,Missouri,29510,St. Louis,2024074,66,CST
+Staten Island,NY,New York,36085,Richmond,476143,58.69,EST
+Tampa,FL,Florida,12057,Hillsborough,2908063,175.8,EST
+Toledo,OH,Ohio,39095,Lucas,482111,83.83,EST
+Tucson,AZ,Arizona,04019,Pima,888486,226.7,MST
+Tulsa,OK,Oklahoma,40143,Tulsa,671033,201.9,CST
+Virginia Beach,VA,Virginia,51810,Virginia Beach,1478868,498,EST
+Washington,DC,District of Columbia,11001,District of Columbia,5379184,68.35,EST
+Wichita,KS,Kansas,20173,Sedgwick,482249,166.5,CST
+Worcester,MA,Massachusetts,25027,Worcester,498328,38.44,EST

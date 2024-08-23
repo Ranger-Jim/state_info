@@ -1,0 +1,5 @@
+﻿  City.cpp
+C:\Users\minil\OneDrive\Desktop\School\CTP-250\Labs\Lab07\Lab07\Lab07\City.cpp(185,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Lab07.vcxproj -> C:\Users\minil\OneDrive\Desktop\School\CTP-250\Labs\Lab07\Lab07\x64\Debug\Lab07.exe
